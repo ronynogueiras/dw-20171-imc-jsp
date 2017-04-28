@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [27/Apr/2017:22:15:11 -0300] "GET /exercicio HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [27/Apr/2017:22:15:11 -0300] "GET /exercicio/ HTTP/1.1" 200 1548 http-bio-9090-exec-3 44
+0:0:0:0:0:0:0:1 - - [27/Apr/2017:22:15:11 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-4 0
+0:0:0:0:0:0:0:1 - - [27/Apr/2017:22:15:17 -0300] "GET /exercicio/?peso=60&altura=1.65 HTTP/1.1" 200 1700 http-bio-9090-exec-5 2
+0:0:0:0:0:0:0:1 - - [27/Apr/2017:22:16:05 -0300] "GET /exercicio/?peso=60&altura=1.60 HTTP/1.1" 200 1701 http-bio-9090-exec-6 3
